@@ -161,6 +161,6 @@ Buena clase y preparadisimos para el examen.
 
 ---
 
-![alt text](Tarea994.png)
+![alt text](Tarea 994.png)
 
 
