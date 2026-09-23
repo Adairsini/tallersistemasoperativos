@@ -165,4 +165,15 @@ Buena clase y preparadisimos para el examen.
 ![Tarea 994](Tarea994.png)
 ![Tarea 994(2)](Tarea994(2).png)
 
+---
+# Tarea 995
+
+![Tarea 995](Tarea995.png)
+
+---
+#Tarea 997
+
+![Tarea 997](Tarea997.png)
+
+#Fin
 
