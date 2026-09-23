@@ -160,7 +160,9 @@ Buena clase y preparadisimos para el examen.
 # FIN DE LA BITACORA
 
 ---
+# Tarea 994
 
-![alt text](Tarea994.png)
+![Tarea 994](Tarea994.png)
+![Tarea 994(2)](Tarea994(2).png)
 
 
