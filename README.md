@@ -183,6 +183,40 @@ Buena clase y preparadisimos para el examen.
 
 ---
 
+# Primera clase 
+
+---
+En esta clase no hicimos la verdad nada más que hablar de unos temas a corregir de la clase
+
+---
+
+# Segunda clase
+---
+
+El profe en esta clase nos enseño como hacer llaves en el github y vincular visual studio code para mandar tareas
+
+---
+
+# tercera clase 
+---
+El profe nos enseño los niveles de bandit y como hay que hacerle y resolvió dudas
+
+---
+
+# CUARTA clase
+
+---
+
+falto a la clase
+
+---
+
+# Quinta clase
+
+El profe andaba resolviendo dudas sobre los niveles de bandit y verificando
+
+---
+
 # Tarea bandit
 
 Bandit 0-1 
