@@ -386,5 +386,9 @@ comando: cd .., $0, $ whoami, $ cat /etc/bandit_pass/bandit33
 
 ---
 
+# Grabacion de menu (Tarea 993)
 
+---
+
+[![Ver grabación de la tarea 993](https://asciinema.org/a/y2Tltn3DbyGwZ9qk.svg)](https://asciinema.org/a/y2Tltn3DbyGwZ9qk)
 
