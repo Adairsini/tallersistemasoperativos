@@ -390,5 +390,7 @@ comando: cd .., $0, $ whoami, $ cat /etc/bandit_pass/bandit33
 
 ---
 
-[![Ver grabación de la tarea 993](https://asciinema.org/a/y2Tltn3DbyGwZ9qk.svg)](https://asciinema.org/a/y2Tltn3DbyGwZ9qk)
+### Grabación de Asciinema
+
+[![Grabación de la tarea 993](https://asciinema.org/a/y2Tltn3DbyGwZ9qk.svg)](https://asciinema.org/a/y2Tltn3DbyGwZ9qk)
 
