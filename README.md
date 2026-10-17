@@ -1,163 +1,302 @@
+
 # tallersistemasoperativos
-# PRIMERA CLASE
+
+# Bitácora de clases — Taller de Sistemas Operativos
+
+**Materia:** Taller de Sistemas Operativos  
+**Profesor:** Ismael Jiménez   
+**Alumno:** Jorge Adair Contreras Ferman
 ---
+
+## Índice
+
+1. [Primera clase]
+2. [Segunda clase]
+3. [Tercera clase]
+4. [Cuarta clase]
+5. [Quinta clase]
+6. [Sexta clase]
+7. [Séptima clase]
+8. [Octava clase]
+9. [Novena clase]
+10. [Décima clase]
+11. [Conclusión general]
+
+---
+
+# Primera clase
+
 ## ¿Qué vimos en clase?
 
-El profesor se presento y nos dijo su nombre, por cierto se llama Ismael Jiménez,
-es un poco sarcástico xD.
-
-## ¿Qué mas vimos?
-
-Vimos que las estadísticas de las tareas, y que las tareas las checábamos en Discord y xD **Tampoco** se podía mandar monas chinas xD, Tambien nos dijo como debemos usar GitHub y que teníamos que usarlo xDxDXdxDDDDDDD.
-
----
-
-# Conclsuion
-
-Es muy chistoso el profe
-
----
-
-# CLASE DOS
-
----
-
-# ¿QUE VIMOS?
-
-Vimos diferentes sistemas operativos a lo largo de la historia, como los primeros Windows y Mac así como la historia de Linux, diferentes versiones de casa sistema operativo sus servidores así como sus usuarios y lo mas importante distribuciones de Linux.
-
----
-# CONCLUSION 
-
-Buena clase lo malo fue la tarea.
-
----
-
-# TERCERA CLASE
----
-## ¿QUE VIMOS?
-
-El profe califico la tarea xD ni se acordó que había, ahora nos enseño comandos de Linux para expandir nuestra mente, nos enseño comandos como CD, LS y Touch, nos enseño para que servían y eso asi como la estructura de linux y rutas relativas y ruta abosula.
-
----
-## CONCLUSION
-
-Buena la clase la verdad 8.9/10 la verdad
-
----
-
-# CUARTA CLASE
----
-
-## ¿QUE VIMOS?
-
-Vimos todo lo de GitHub y problemas para iniciar sesión y eso así como el tema ese de GitHub for education y eso y mas cosas de la clase, al profe a veces se le iban las cabras ósea se le olvidaban algunas cosas
-
----
-## CONCLUSION
-
-Medio aburrida la clase la verdad pero fue bastante informativa
-
----
-
-# QUINTA CLASE
-
----
-## ¿QUE VIMOS?
-
-Vimos operadores lógicos que eran unas tablas que tenían una expresión **A AND B así como OR** también vimos Operadores relacionales ósea como **los <, > ,<=, >=, <>, etc..** muy buena la clase la verdad e informativa la verdad un tema simple a veces al profe se le iban las cabras pero aun así no importa.
-
----
-
-# CONCLUSION
-
-Buena clase e informativa la verdad me gusto al principio no le entendí pero ya ahora si.
-
----
-
-# SEXTA CLASE
-
----
-
-## ¿QUE VIMOS?
-
-Vimos mas cosas y algunos programas del profesor la verdad no me acuerdo mucho de esta clase xD pero solo me acuerdo que el profe andaba de chistoso.
-
----
+El profesor se presentó, su nombre es Ismael Jiménez. Tiene un humor sarcástico. Nos explicó sobre las estadísticas de las tareas, el uso de Discord y que no debíamos hablar de cosas que no tuvieran relación con la materia. También nos explicó cómo utilizar GitHub.
 
 ## Conclusión
 
-Una clase bastante aburrida la verdad... 5/10
+Fue una clase interesante y el profesor me pareció divertido.
+
+## Temas principales
+
+- Presentación del profesor.
+- Organización de la materia.
+- Uso de Discord.
+- Uso de GitHub.
+- Entrega y revisión de tareas.
+
+## Lo que me llevo de la clase
+
+Conocer la forma en que se trabajará durante el curso y las herramientas que utilizaremos para organizar nuestras actividades.
 
 ---
 
-# SEPTIMA CLASE
+# Segunda clase
+
+## ¿Qué vimos en clase?
+
+Vimos la historia de los sistemas operativos, desde las primeras versiones de Windows y macOS hasta la evolución de Linux. También hablamos sobre sus versiones, servidores, usuarios y las distintas distribuciones de Linux.
+
+## Conclusión
+
+Fue una buena clase, aunque la tarea no me gustó mucho.
+
+## Temas principales
+
+- Historia de los sistemas operativos.
+- Evolución de Windows y macOS.
+- Historia y desarrollo de Linux.
+- Servidores y usuarios.
+- Distribuciones de Linux.
+
+## Lo que me llevo de la clase
+
+Comprender que los sistemas operativos han evolucionado con el tiempo y que existen distintas opciones según las necesidades de los usuarios.
 
 ---
 
-## ¿QUE VIMOS?
+# Tercera clase
 
-vimos como usar el GitHub para los que tenían duda de como usarlo, nos enseño el de varias compañeros de la universidad, como teniamos que hacerlo y como no había que hacerle.
+## ¿Qué vimos en clase?
 
----
+Vimos una tarea relacionada con la calificación. También aprendimos algunos comandos de Linux, como `cd`, `ls` y `touch`. Revisamos la estructura de directorios y la diferencia entre rutas relativas y absolutas.
 
-## CONCLUSION
+## Conclusión
 
-Clase bastante informativa la verdad 10/10
+Obtuve una calificación de 8.9/10.
 
----
-#  OCTAVA CLASE
+## Temas principales
 
----
+- Comandos básicos de Linux.
+- Navegación entre directorios.
+- Creación de archivos.
+- Rutas relativas.
+- Rutas absolutas.
 
-##  ¿Qué vimos?
+## Comandos vistos
 
-vimos una demostración de una IA de cámara llamada Halo.
-Esta IA se puede utilizar principalmente para **seguridad**, aunque también se puede usar para jugar algunos juegos.
+| Comando | Función |
+|---|---|
+| `cd` | Cambiar de directorio. |
+| `ls` | Mostrar el contenido de un directorio. |
+| `touch` | Crear un archivo vacío o actualizar su fecha de modificación. |
 
----
+## Lo que me llevo de la clase
 
-##  Conclusión
-
-Me gusto la clase solo que medio me aburri pero me gusto como la **IA** puede hacer eso y mucho mas.
-
----
-
-# NOVENA CLASE
-
----
-
-# ¿Qué vimos?
-
-Vimos como dar acceso a linux a usuarios y grupos usando el **CHMOD** y el **CHOWN** que sirve justamente para ese tipo de cosas especialmente si quieres darle permisos a unas personas de hacer cierta tarea.
+Aprender a utilizar comandos básicos para moverme entre directorios y trabajar con archivos desde la terminal.
 
 ---
 
-# Conclusion
+# Cuarta clase
+
+## ¿Qué vimos en clase?
+
+Vimos temas relacionados con GitHub. Tuve algunos problemas para iniciar sesión y también revisamos GitHub Education.
+
+## Conclusión
+
+La clase fue un poco aburrida, pero informativa.
+
+## Temas principales
+
+- Uso de GitHub.
+- Acceso a la plataforma.
+- GitHub Education.
+- Herramientas para estudiantes.
+
+## Lo que me llevo de la clase
+
+Conocer mejor GitHub y las herramientas educativas que pueden ayudarme durante el curso.
 
 ---
 
-Bastante buena la clase al principio no le entendí y al final tampoco pero bueno después repase y ya entendí jajaja.
+# Quinta clase
+
+## ¿Qué vimos en clase?
+
+Vimos operadores lógicos y tablas de verdad, como `AND` y `OR`. También revisamos operadores relacionales, como `<`, `>`, `<=`, `>=` y `<>`.
+
+## Conclusión
+
+Al principio me pareció confuso, pero después logré entenderlo.
+
+## Temas principales
+
+- Operadores lógicos.
+- Tablas de verdad.
+- Operadores relacionales.
+- Comparación de valores.
+
+## Ejemplos
+
+| Operador | Significado |
+|---|---|
+| `AND` | La condición es verdadera cuando ambas condiciones son verdaderas. |
+| `OR` | La condición es verdadera cuando al menos una de las condiciones es verdadera. |
+| `<` | Menor que. |
+| `>` | Mayor que. |
+| `<=` | Menor o igual que. |
+| `>=` | Mayor o igual que. |
+| `<>` | Diferente de, en algunos lenguajes y herramientas. |
+
+## Lo que me llevo de la clase
+
+Comprender que los operadores permiten comparar valores y evaluar condiciones, algo útil en programación y en el funcionamiento de los sistemas.
 
 ---
 
-# DECIMA CLASE
+# Sexta clase
+
+## ¿Qué vimos en clase?
+
+Vimos algunos programas y temas de la materia, aunque no recuerdo mucho de lo que se explicó. El profesor también hizo algunas bromas durante la clase.
+
+## Conclusión
+
+La clase me pareció aburrida. Le daría un 5/10.
+
+## Temas principales
+
+- Revisión de programas y conceptos de la materia.
+- Explicaciones del profesor.
+- Participación durante la clase.
+
+## Lo que me llevo de la clase
+
+Esta clase me hizo darme cuenta de la importancia de tomar apuntes para recordar mejor los temas revisados.
 
 ---
 
-# ¿Que vimos?
+# Séptima clase
 
-Vimos un repaso de la materia y algunos otros conceptos que no conociamos etc... bastante buena la clase la verdad un poco extraña pero informativa en el sentido de que si aprendimos o bueno al menos yo si lo hice xd.
+## ¿Qué vimos en clase?
+
+El profesor nos ayudó con GitHub y mostró ejemplos de los repositorios de algunos compañeros. También explicó qué cosas debemos hacer y qué cosas debemos evitar al organizar nuestros repositorios.
+
+## Conclusión
+
+Fue una clase informativa. Le daría un 10/10.
+
+## Temas principales
+
+- Organización de repositorios.
+- Ejemplos de trabajos de compañeros.
+- Buenas prácticas en GitHub.
+- Errores que debemos evitar.
+
+## Lo que me llevo de la clase
+
+Aprender de los ejemplos de otros compañeros y mejorar la forma en que organizo y presento mis trabajos en GitHub.
 
 ---
 
-# Conclusion
+# Octava clase
 
-Buena clase y preparadisimos para el examen.
+## ¿Qué vimos en clase?
+
+Vimos una demostración de una inteligencia artificial llamada Halo. También hablamos sobre seguridad y videojuegos.
+
+## Conclusión
+
+El tema me pareció interesante, aunque la clase se sintió un poco aburrida en algunos momentos.
+
+## Temas principales
+
+- Inteligencia artificial.
+- Demostración de Halo.
+- Seguridad.
+- Videojuegos y tecnología.
+
+## Lo que me llevo de la clase
+
+Conocer un ejemplo de cómo se puede utilizar la inteligencia artificial y relacionar estos avances con la seguridad y los videojuegos.
 
 ---
 
-# FIN DE LA BITACORA
+# Novena clase
+
+## ¿Qué vimos en clase?
+
+Vimos usuarios, grupos y permisos en Linux. Aprendimos sobre los comandos `chmod` y `chown`.
+
+`chmod` sirve para modificar los permisos de lectura, escritura y ejecución de archivos y directorios. Por otro lado, `chown` sirve para cambiar el propietario y, cuando corresponde, el grupo de un archivo o directorio.
+
+## Conclusión
+
+Al principio me confundí con el tema, pero después lo repasé para comprenderlo mejor.
+
+## Temas principales
+
+- Usuarios de Linux.
+- Grupos de usuarios.
+- Permisos de archivos y directorios.
+- Lectura, escritura y ejecución.
+- Comandos `chmod` y `chown`.
+
+## Comandos vistos
+
+| Comando | Función |
+|---|---|
+| `chmod` | Modificar los permisos de archivos y directorios. |
+| `chown` | Cambiar el propietario y, opcionalmente, el grupo. |
+
+## Lo que me llevo de la clase
+
+Comprender que los permisos permiten controlar quién puede leer, modificar o ejecutar archivos y que la administración de usuarios es importante para la seguridad del sistema.
+
+---
+
+# Décima clase
+
+## ¿Qué vimos en clase?
+
+Repasamos los temas para el examen. El profesor hizo un repaso general de los conceptos y explicó nuevamente algunos puntos importantes.
+
+## Conclusión
+
+Fue una buena clase e informativa. Sentí que estaba preparado para el examen.
+
+## Temas principales
+
+- Repaso de los temas anteriores.
+- Revisión de conceptos importantes.
+- Preparación para el examen.
+- Resolución de dudas.
+
+## Lo que me llevo de la clase
+
+Reforzar los conocimientos que vimos durante las clases anteriores y reconocer los temas que debía repasar antes del examen.
+
+---
+
+# Conclusión general
+
+Durante estas clases del Taller de Sistemas Operativos aprendí sobre la historia de los sistemas operativos, los comandos básicos de Linux, la organización de directorios, los permisos de archivos y el uso de GitHub. También vimos operadores lógicos y relacionales, inteligencia artificial y otros conceptos relacionados con la tecnología.
+
+Algunos temas me resultaron más fáciles que otros. En ciertas clases me confundí al principio, pero pude comprender mejor algunos conceptos al repasarlos. También aprendí que es importante tomar apuntes, organizar mis trabajos y practicar los comandos para recordar cómo se utilizan.
+
+En general, estas clases me ayudaron a conocer mejor los sistemas operativos y algunas de las herramientas que utilizaremos durante el curso.
+
+---
+
+# Fin de la bitácora
 
 ---
 # Tarea 994
@@ -179,41 +318,111 @@ Buena clase y preparadisimos para el examen.
 
 ---
 
-# Segundo Parcial
+# Bitácora de clases — Segundo Parcial
+
+**Materia:** Taller de Sistemas Operativos  
+**Profesor:** Ismael Jiménez  
+**Parcial:** Segundo parcial   
+**Alumno:** Jorge Adair Contreras Ferman
 
 ---
 
-# Primera clase 
+## Índice
+
+1. [Primera clase]
+2. [Segunda clase]
+3. [Tercera clase]
+4. [Cuarta clase]
+5. [Quinta clase]
+6. [Conclusión general]
 
 ---
-En esta clase no hicimos la verdad nada más que hablar de unos temas a corregir de la clase
+
+# Primera clase
+
+## ¿Qué vimos en clase?
+
+En esta clase no hicimos la verdad nada más que hablar de unos temas a corregir de la clase.
+
+## Temas principales
+
+- Revisión de temas de la clase.
+- Comentarios sobre aspectos que se debían corregir.
+
+## Lo que me llevo de la clase
+
+La importancia de revisar los temas anteriores y tener en cuenta los aspectos que necesitan corregirse para mejorar el trabajo durante el curso.
 
 ---
 
 # Segunda clase
+
+## ¿Qué vimos en clase?
+
+El profe en esta clase nos enseñó cómo hacer llaves en GitHub y vincular Visual Studio Code para mandar tareas.
+
+## Temas principales
+
+- Uso de llaves en GitHub.
+- Vinculación de Visual Studio Code con GitHub.
+- Envío de tareas mediante las herramientas utilizadas.
+
+## Lo que me llevo de la clase
+
+Aprender a conectar las herramientas de trabajo para poder enviar tareas y trabajar con GitHub desde Visual Studio Code.
+
 ---
 
-El profe en esta clase nos enseño como hacer llaves en el github y vincular visual studio code para mandar tareas
+# Tercera clase
+
+## ¿Qué vimos en clase?
+
+El profe nos enseñó los niveles de Bandit y cómo hay que hacerle, y resolvió dudas.
+
+## Temas principales
+
+- Niveles de Bandit.
+- Resolución de dudas.
+- Procedimientos para avanzar en los niveles.
+
+## Lo que me llevo de la clase
+
+Conocer mejor los niveles de Bandit y comprender que es importante resolver las dudas para poder avanzar en las actividades.
 
 ---
 
-# tercera clase 
----
-El profe nos enseño los niveles de bandit y como hay que hacerle y resolvió dudas
+# Cuarta clase
 
----
+## ¿Qué vimos en clase?
 
-# CUARTA clase
+El profe faltó a la clase.
 
----
+## Temas principales
 
-falto a la clase
+- No hubo clase debido a la ausencia del profesor.
+
+## Lo que me llevo de la clase
+
+No se registraron actividades ni temas nuevos en esta sesión.
 
 ---
 
 # Quinta clase
 
-El profe andaba resolviendo dudas sobre los niveles de bandit y verificando
+## ¿Qué vimos en clase?
+
+El profe andaba resolviendo dudas sobre los niveles de Bandit y verificando...
+
+**Nota:** Falta completar la descripción de lo que el profesor estaba verificando.
+
+## Temas principales
+
+- Resolución de dudas sobre Bandit.
+- Revisión de los niveles.
+
+## Lo que me llevo de la clase
+
+Repasar los niveles de Bandit y aclarar las dudas que surgen durante su realización.
 
 ---
 
