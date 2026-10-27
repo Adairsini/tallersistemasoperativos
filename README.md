@@ -426,6 +426,83 @@ Repasar los niveles de Bandit y aclarar las dudas que surgen durante su realizac
 
 ---
 
+## Sexta clase — Juegos de hacking
+
+> **Actividad principal:** Participación en los retos organizados por el profesor.
+
+Durante esta clase participamos en los juegos que organizó el maestro, los cuales consistían en intentar hackear a otros jugadores que también estaban participando.
+
+###  ¿Qué hicimos?
+
+- Participamos en los diferentes retos propuestos por el profesor.
+- Pusimos a prueba nuestras habilidades y conocimientos de informática.
+- Intentamos superar los desafíos mientras interactuábamos con los demás participantes.
+
+###  Comentario de la clase
+
+Fue una actividad diferente a las clases habituales, ya que aprendimos de una manera más dinámica y entretenida. Además, los juegos nos permitieron acercarnos a la informática y al hacking desde una perspectiva práctica.
+
+---
+
+##  Séptima clase — Avance de tareas
+
+> **Actividad principal:** Organización y progreso de trabajos pendientes.
+
+Durante esta clase nos dedicamos principalmente a adelantar las tareas que nos había asignado el maestro.
+
+###  ¿Qué hicimos?
+
+- Continuamos trabajando en las actividades pendientes.
+- Aprovechamos el tiempo de clase para avanzar en nuestros trabajos.
+- Revisamos qué tareas necesitábamos terminar para cumplir con las entregas.
+
+###  Comentario de la clase
+
+Fue una clase más tranquila, ya que no trabajamos en un tema nuevo. Sin embargo, nos sirvió para avanzar en las actividades y evitar que se acumularan los trabajos pendientes.
+
+---
+
+## Octava clase — Introducción a Asciinema
+
+> **Actividad principal:** Aprendizaje de una herramienta para grabar la terminal.
+
+Durante esta clase, el profesor nos enseñó a utilizar **Asciinema**, una herramienta que permite registrar las actividades que realizamos en la terminal de comandos.
+
+###  ¿Qué aprendimos?
+
+- Conocimos la función principal de Asciinema.
+- Aprendimos para qué sirve grabar una sesión de terminal.
+- Vimos cómo podemos utilizar esta herramienta para mostrar los comandos y procedimientos que ejecutamos.
+- Comprendimos cómo puede ayudarnos a presentar una de las tareas solicitadas por el maestro.
+
+###  ¿Para qué nos servirá?
+
+Asciinema nos permitirá mostrar el procedimiento que seguimos al realizar determinadas actividades, en lugar de presentar únicamente el resultado final. De esta manera, podremos demostrar nuestro trabajo de una forma más clara y organizada.
+
+###  Comentario de la clase
+
+La clase fue útil porque conocimos una herramienta nueva que podemos aplicar en nuestros trabajos. Además, aprendimos otra forma de documentar nuestras actividades relacionadas con la terminal y los sistemas operativos.
+
+---
+
+##  Novena clase — Continuación de actividades
+
+> **Actividad principal:** Seguimiento y avance de tareas.
+
+Durante esta clase continuamos trabajando en las tareas que nos había encargado el maestro, aprovechando el tiempo disponible para progresar en las actividades pendientes.
+
+###  ¿Qué hicimos?
+
+- Continuamos desarrollando los trabajos asignados.
+- Aprovechamos el tiempo para completar las actividades pendientes.
+- Revisamos nuestros avances y organizamos lo que todavía nos faltaba por hacer.
+
+###  Comentario de la clase
+
+Al igual que en otras sesiones, fue una clase enfocada en el trabajo individual y el avance de tareas. Aunque no vimos un tema nuevo, pudimos utilizar el tiempo para seguir progresando y prepararnos para las próximas entregas.
+
+---
+
 # Tarea bandit
 
 Bandit 0-1 
