@@ -20,7 +20,7 @@
 8. [Octava clase]
 9. [Novena clase]
 10. [Décima clase]
-11. [Conclusión general]
+11. [Tareas]
 
 ---
 
@@ -334,7 +334,12 @@ En general, estas clases me ayudaron a conocer mejor los sistemas operativos y a
 3. [Tercera clase]
 4. [Cuarta clase]
 5. [Quinta clase]
-6. [Conclusión general]
+6. [Sexta clase]
+7. [Septima clase]
+8. [Osctava clase]
+9. [Novena clase]
+10. [Tarea bandit]
+11. [Grabacion de tarea]
 
 ---
 
@@ -426,7 +431,7 @@ Repasar los niveles de Bandit y aclarar las dudas que surgen durante su realizac
 
 ---
 
-## Sexta clase — Juegos de hacking
+# Sexta clase
 
 > **Actividad principal:** Participación en los retos organizados por el profesor.
 
@@ -444,7 +449,7 @@ Fue una actividad diferente a las clases habituales, ya que aprendimos de una ma
 
 ---
 
-##  Séptima clase — Avance de tareas
+#  Séptima clase
 
 > **Actividad principal:** Organización y progreso de trabajos pendientes.
 
@@ -462,7 +467,7 @@ Fue una clase más tranquila, ya que no trabajamos en un tema nuevo. Sin embargo
 
 ---
 
-## Octava clase — Introducción a Asciinema
+# Octava clase
 
 > **Actividad principal:** Aprendizaje de una herramienta para grabar la terminal.
 
@@ -485,7 +490,7 @@ La clase fue útil porque conocimos una herramienta nueva que podemos aplicar en
 
 ---
 
-##  Novena clase — Continuación de actividades
+#  Novena clase
 
 > **Actividad principal:** Seguimiento y avance de tareas.
 
