@@ -1,0 +1,61 @@
+#!/bin/bash
+# Tarea #987 - Jail / Challenge en Bash (version basica)
+# Objetivo: leer la bandera de cada nivel evitando los comandos bloqueados.
+# Uso: bash jail_challenge.sh
+
+DIR=$(mktemp -d)
+trap 'rm -rf "$DIR"' EXIT
+cd "$DIR"
+
+echo "FLAG{nivel1_facil}"  > flag.txt
+echo "FLAG{nivel2_oculto}" > .secreto
+
+nivel=1
+bloqueados1="cat more less"
+bloqueados2="cat more less head tail grep ls"
+
+echo "=== JAIL CHALLENGE ==="
+echo "Comandos: hint | check FLAG{...} | exit"
+
+while [ $nivel -le 2 ]; do
+  echo
+  echo "--- Nivel $nivel ---"
+  read -p "jail$ " cmd
+
+  if [ "$cmd" = "exit" ]; then
+    break
+  elif [ "$cmd" = "hint" ]; then
+    if [ $nivel -eq 1 ]; then
+      echo "Pista: cat esta bloqueado, pero hay otros comandos para leer archivos."
+    else
+      echo "Pista: ls esta bloqueado. Prueba con echo * y con echo .*"
+    fi
+    continue
+  elif [[ "$cmd" == check* ]]; then
+    if [ $nivel -eq 1 ] && [ "${cmd#check }" = "FLAG{nivel1_facil}" ]; then
+      echo "Correcto!"; nivel=2
+    elif [ $nivel -eq 2 ] && [ "${cmd#check }" = "FLAG{nivel2_oculto}" ]; then
+      echo "Correcto!"; nivel=3
+    else
+      echo "Bandera incorrecta."
+    fi
+    continue
+  fi
+
+  # Revisar lista negra
+  if [ $nivel -eq 1 ]; then lista=$bloqueados1; else lista=$bloqueados2; fi
+  bloqueado=0
+  for palabra in $lista; do
+    if [[ "$cmd" == *"$palabra"* ]]; then
+      bloqueado=1
+    fi
+  done
+
+  if [ $bloqueado -eq 1 ]; then
+    echo "Comando bloqueado."
+  else
+    eval "$cmd"
+  fi
+done
+
+[ $nivel -eq 3 ] && echo "Felicidades, escapaste de la jaula!"
