@@ -692,3 +692,10 @@ comando: cd .., $0, $ whoami, $ cat /etc/bandit_pass/bandit33
 https://asciinema.org/a/qK8DY6rbiVKNP3aQ
 
 ----
+
+# GRABACIÓN DE ASCINEMA TAREA 981
+
+https://asciinema.org/a/t5DVumXc4RuxW6Sh
+
+---
+
